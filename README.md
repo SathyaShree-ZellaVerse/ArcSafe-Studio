@@ -73,9 +73,9 @@ To provide an interactive educational tool for understanding electrical power sy
 
 This project is intended for educational and demonstration purposes only. Its simplified calculations have not been independently validated for real-world electrical protection or safety decisions. Do not use its results for equipment selection, protection coordination, or actual electrical installations.
 
-## 👩‍💻 Developer
+## 👩‍💻 Developed by
 
-**B.E. Electrical and Electronics Engineering Student**
+Sathya Shree Third-Year B.E. Electrical and Electronics Engineering V.S.B Engineering College, Karur
 
 ## 📌 Project Status
 
