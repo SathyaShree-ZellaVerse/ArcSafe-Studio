@@ -29,7 +29,7 @@ ArcSafe Studio is a web-based educational application designed to calculate faul
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/ArcSafe-Studio.git
+git clone https://github.com/SathyaShree-ZellaVerse/ArcSafe-Studio.git
 cd ArcSafe-Studio
 ```
 
